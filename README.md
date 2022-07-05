@@ -1,2 +1,2 @@
-# Maratona-Explorer
-Maratona Explorer 2.0 | Rocketseat
+# Maratona-explorer
+Maratona explorer 2.0 | Rocketseat
