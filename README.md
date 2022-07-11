@@ -1,6 +1,8 @@
 # Maratona-explorer
 Maratona explorer 2.0 | Rocketseat
 
+<p>Uma página feita utilizando a idéia de link tree durante a maratona explorer 2.0 da rocketseat para "conectar" todas as suas redes sociais atravéz de uma só página, colocar no instagram, etc..</p>
+
 <table>
   <tr>
     <th align="center">Blue</th>
