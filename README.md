@@ -3,6 +3,8 @@
 
 <p>Uma página feita utilizando a ideia de link tree durante a <a href="https://youtu.be/srLqLblD_uI">maratona explorer 2.0</a> da rocketseat para "conectar" todas as suas redes sociais atravéz de uma só página, colocar no instagram, etc. Em diferentes temas básicos, mas sinta-se a vontade para utilizar a paleta de cores que mais te agrada! 😄</p>
 
+><a href="https://github.com/RenanSouz/CSS">other projects in css</a>
+
 <table>
   <tr>
     <th align="center">Blue</th>
