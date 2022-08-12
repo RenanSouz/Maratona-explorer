@@ -35,23 +35,20 @@
   </tr>
 </table>
 
-<!--
 ###### Maratona explorer 3.0 | Rocketseat
 
-<p>Uma página feita utilizando a ideia de link tree durante a maratona explorer 2.0 da rocketseat para "conectar" todas as suas redes sociais atravéz de uma só página, colocar no instagram, etc. Em diferentes temas básicos, mas sinta-se a vontade para utilizar a paleta de cores que mais te agrada! 😄</p>
+<p>Feita durante a maratona explorer 3.0 da rocketseat.. </p>
 
 <table>
   <tr>
-    <th align="center">Blue</th>
-    <th align="center">Dark blue</th>
+    <th align="center">
+      <h2>Maratona explorer 3.0</h2>
+    </th>
   </tr>
   
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/101893896/178172692-cd133afc-fd72-43d8-85d9-1c1e7b5f5b6e.png" alt="Tema azul"/>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/101893896/178172693-f948aba3-3fdc-4204-bd5b-c4070a4bad51.png" alt="Tema azul dark"/>
+      <img src="https://user-images.githubusercontent.com/101893896/184422312-069392f7-278b-4556-b765-27c9b5203c5e.png" alt="Página do RocketCoffe"/>
     </td>
   </tr>
 </table>
