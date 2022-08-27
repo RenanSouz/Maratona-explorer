@@ -34,23 +34,3 @@
     </td>
   </tr>
 </table>
-
-###### Maratona explorer 3.0 | Rocketseat
-
-<p>Feita durante a maratona explorer 3.0 da rocketseat.. </p>
-
-<table>
-  <tr>
-    <th align="center">Dark-off</th>
-    <th align="center">Dark-on</th>
-  </tr>
-  
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/101893896/184422312-069392f7-278b-4556-b765-27c9b5203c5e.png" alt="Página do RocketCoffe"/>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/101893896/184668401-c7c5dfd5-388a-4b0c-9202-b662902b3111.png" alt="Página do RocketCoffe dark"/>
-    </td>
-  </tr>
-</table>
